@@ -1,2 +1,2 @@
 # School-App
-web app for my school
+web app for our school
